@@ -71,7 +71,8 @@ Replace `"YOUR_API_KEY_HERE"` with the key you copied.
      ```bash
      python task2_enrich_games.py
      ```
-```
+````
+
 ---
 
 ## ✅ Sample Output Format
